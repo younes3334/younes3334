@@ -1,10 +1,11 @@
 # Younes IBNE-ETTALEB&nbsp;
-### Hi there 👋 I'm Younes IBNE-ETTALEB, Artificial Intelligence student from ENSIAS (National School of Computer Science in Rabat, Morocco)
+### Hi there 👋 I'm Younes IBNE-ETTALEB, a Data Scientist / AI Engineer willing to solve problems using Python
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Pillarxyz&label=Profile%20views&color=e42a28&style=flat" alt="Pillarxyz" /> </p>
 
 > ML and Data engineer, Freelancer in AI field
-- 🌱 An AI Engineering student, freelancer, and Machine Learning Engineer with experience in Data Science. A passionate user of data and machine learning to build models and algorithms that can improve the efficiency of businesses and organizations. 
+- 🌱 An AI Engineer, freelancer, and Machine Learning Engineer with experience in Data Science. A passionate user of data and machine learning to build models and algorithms that can improve the efficiency of businesses and organizations.
+- A Problem Solver using Python, building bots that can handle our manual tasks on different fields ( Trading, Data engineering, AI-powered bots )
 - 📫 How to reach me: **younes.ibneettaleb@gmail.com**
 ---
 
